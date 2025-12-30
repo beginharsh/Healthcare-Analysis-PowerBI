@@ -14,6 +14,7 @@ procedures, insurance providers, and service types.
 - Which doctors drive revenue, and at what satisfaction cost?
 - How do emergency visits impact volume, revenue, and patient experience?
 - Where do operational bottlenecks affect satisfaction and length of stay?
+
 ![](Data-Modeling)
 
 ## Dashboards
@@ -22,6 +23,7 @@ procedures, insurance providers, and service types.
 - Revenue per Visit: $650
 - Department, diagnosis, procedure, and state-wise revenue contribution
 - Revenue vs satisfaction comparison at doctor level
+  
 ![](Revenue)
 
 ### 2. Insurance Analysis
@@ -30,6 +32,7 @@ procedures, insurance providers, and service types.
 - Patient-paid revenue: $1.02M
 - Provider-wise coverage %, pending insurance claims
 - Department-level insurance dependency
+  
 ![](Insurance-Analysis)
 
 
@@ -39,6 +42,7 @@ procedures, insurance providers, and service types.
 - Revenue split: treatment, medication, room charges
 - Procedure and diagnosis distribution per provider
 - Identifies high-revenue / low-satisfaction risk profiles.
+  
 ![](Doctor-Performance)
 
 
@@ -47,6 +51,7 @@ procedures, insurance providers, and service types.
 - Average Length of Stay: 5.87 days
 - Inpatient vs outpatient performance
 - Diagnosis-wise visits vs satisfaction trends
+  
 ![](Operations-Analysis)
 
 
