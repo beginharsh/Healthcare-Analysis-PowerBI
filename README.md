@@ -14,7 +14,7 @@ procedures, insurance providers, and service types.
 - Which doctors drive revenue, and at what satisfaction cost?
 - How do emergency visits impact volume, revenue, and patient experience?
 - Where do operational bottlenecks affect satisfaction and length of stay?
-![](Screenshot 2025-12-30 210117.png)
+![](Data-Modeling)
 
 ## Dashboards
 ### 1. Revenue Analysis
@@ -22,7 +22,7 @@ procedures, insurance providers, and service types.
 - Revenue per Visit: $650
 - Department, diagnosis, procedure, and state-wise revenue contribution
 - Revenue vs satisfaction comparison at doctor level
-![](Screenshot 2025-12-30 210952.png)
+![](Revenue)
 
 ### 2. Insurance Analysis
 - Insurance Coverage: 68.5%
@@ -30,19 +30,26 @@ procedures, insurance providers, and service types.
 - Patient-paid revenue: $1.02M
 - Provider-wise coverage %, pending insurance claims
 - Department-level insurance dependency
-![](Screenshot 2025-12-30 211006.png)
+![](Insurance-Analysis)
+
+
+
  ### 3. Doctors Performance
 - Visits, revenue per visit, satisfaction per doctor
 - Revenue split: treatment, medication, room charges
 - Procedure and diagnosis distribution per provider
 - Identifies high-revenue / low-satisfaction risk profiles.
-![](Screenshot 2025-12-30 211022.png)
+![](Doctor-Performance)
+
+
 ### 4. Operations Analysis
 - Emergency Visit Rate: 38.6%
 - Average Length of Stay: 5.87 days
 - Inpatient vs outpatient performance
 - Diagnosis-wise visits vs satisfaction trends
-![](Screenshot 2025-12-30 211043.png)
+![](Operations-Analysis)
+
+
 
 ## KPIs Tracked
 - Total Revenue
